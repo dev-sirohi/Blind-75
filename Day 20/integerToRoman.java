@@ -15,3 +15,5 @@ class Solution {
         return res.toString();
     }
 }
+
+// StringBuilder is faster than String class
